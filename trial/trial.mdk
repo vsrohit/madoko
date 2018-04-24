@@ -1,0 +1,28 @@
+Title         : Trial
+
+[TITLE]
+
+# Madoko 
+
+Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+
+
+Enjoy!
+
+$x^2+5x+6$ where $x$ is the smallest number. Here is the Python code for the above discussion.
+
+```python
+  x = 10
+  def initial(x)
+    print(x)
+  print("Rohit")
+``` 
+`code` inline is not an issue. Almost there are no issues using this except for a direct way to publish on GitHub.
+
+[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
