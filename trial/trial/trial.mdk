@@ -20,6 +20,14 @@ function hello() {
 }
 ```
 
+```Haskell
+  int:: int -> int
+```
+![my work 2]
+
+[my work 2]: images/my-work-2.jpg "my work 2" { width:auto; max-width:90% }
+
+
 | Exp | A    | B    | C |   |
 |-----|------|------|---|---|
 | 1   | 10.3 | 10.4 | 4 |   |
